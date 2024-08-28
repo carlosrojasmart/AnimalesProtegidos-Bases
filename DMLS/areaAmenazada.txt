@@ -1,0 +1,56 @@
+AAAM0001    Lago Tarapoto    Contaminación de aguas por vertidos de petróleo    AMRIE009    APCOL001
+AAAM0002    Río Amacayacu    Deforestación    AMRIE001    APCOL001
+AAAM0003    Laguna Zafire    Contaminación de aguas por desechos plásticos    AMRIE022    APCOL001
+AAAM0004    Bosque de Niebla    Fragmentación    AMRIE030    APCOL001
+AAAM0005    Bosque de Niebla del Puré    Deforestación continua amenaza la diversidad biológica.    AMRIE001    APCOL002
+AAAM0006    Laguna de Tarapoto    Sobreexplotación pesquera impacta la biodiversidad acuática.    AMRIE003    APCOL002
+AAAM0007    Ciénaga de Patoyacá    Vertidos de petróleo amenazan la vida acuática y terrestre.    AMRIE009    APCOL002
+AAAM0008    Cerro de La Danta    Urbanización no regulada afecta los hábitats y la conectividad biológica.    AMRIE026    APCOL002
+AAAM0009    Laguna Iguaque    Turismo no regulado deteriora la calidad del agua y los ecosistemas acuáticos    AMRIE015    APCOL003
+AAAM0010    Páramo de Iguaque    Incendios forestales amenazan la vegetación y la biodiversidad única.    AMRIE029    APCOL003
+AAAM0011    Bosque de Niebla de Iguaque    Deforestación por actividades humanas reduce la cobertura arbórea    AMRIE001    APCOL003
+AAAM0012    Cueva de los Guácharos    Contaminación lumínica perturba el hábitat de los guácharos y otras especies nocturnas.    AMRIE007    APCOL003
+AAAM0013    Laguna Grande de la Sierra    Sobreexplotación turística daña los ecosistemas acuáticos y la biodiversidad.    AMRIE015    APCOL004
+AAAM0014    Glaciares del Cocuy    Deshielo acelerado debido al cambio climático amenaza la existencia de los glaciares.    AMRIE028    APCOL004
+AAAM0015    Páramo de la Rusia    Fragmentación del hábitat por la expansión de la urbanización en zonas cercanas    AMRIE030    APCOL004
+AAAM0016    Bosque Altoandino del Cocuy    Deforestación para la expansión agrícola y ganadera impacta la biodiversidad    AMRIE001    APCOL004
+AAAM0017    Nevado del Ruiz    Turismo no regulado aumenta la erosión y la degradación del suelo.    AMRIE015    APCOL005
+AAAM0018    Páramo de Santa Isabel    Sobreexplotación ganadera afecta la vegetación nativa y los ecosistemas acuáticos.    AMRIE003    APCOL005
+AAAM0019    Laguna del Otún    Contaminación de aguas por vertidos de residuos afecta la calidad del agua y la vida acuática.    AMRIE004    APCOL005
+AAAM0020    Bosque Altoandino de los Nevados    Fragmentación del hábitat debido a la construcción de infraestructuras turísticas    AMRIE014    APCOL005
+AAAM0021    Río Otún    Contaminación de aguas por vertidos de residuos afecta la biodiversidad acuática.    AMRIE004    APCOL006
+AAAM0022    Bosque Húmedo Montano Bajo    Deforestación para la expansión agrícola impacta la diversidad biológica.    AMRIE001    APCOL006
+AAAM0023    Zona de Anidación de Aves    Alteración de patrones de migración por la fragmentación del hábitat y cambios climáticos.    AMRIE021    APCOL006
+AAAM0024    Selva Nebular de Otún Quimbaya    Urbanización no regulada amenaza la integridad del hábitat y la biodiversidad    AMRIE026    APCOL006
+AAAM0025    Playas del Parque Tayrona    Contaminación lumínica perturba el ciclo de vida de las tortugas marinas    AMRIE007    APCOL007
+AAAM0026    Sierra Nevada de Santa Marta    Acidificación de suelos por depósitos ácidos afecta la vegetación nativa.    AMRIE023    APCOL007
+AAAM0027    Ecosistema de Manglares    Fragmentación del hábitat por la expansión urbana limita la migración de especies.    AMRIE030    APCOL007
+AAAM0028    Ciénagas de Neguanje y Valencia    Incendios forestales causan pérdida de biodiversidad y degradación del suelo.    AMRIE029    APCOL007
+AAAM0029    Ecosistema de Manglares    Enfermedades o patógenos en especies protegidas amenazan la fauna local    AMRIE020    APCOL008
+AAAM0030    Zona de Pesca Artesanal    Cambio climático altera los patrones de migración de las especies marinas.    AMRIE017    APCOL008
+AAAM0031    Canales de Navegación    Pérdida de suelos fértiles por sedimentación causada por la erosión de las riveras.    AMRIE025    APCOL008
+AAAM0032    Hábitats de Avifauna Migratoria    Desechos plásticos afectan la reproducción y alimentación de las aves migratorias.    AMRIE022    APCOL008    
+AAAM0033    Bosque Primario de Los Picachos    Deforestación por expansión agrícola pone en peligro especies endémicas.    AMRIE001    APCOL009
+AAAM0034    Páramo de Los Frailejones    Sobreexplotación de turismo daña el frágil ecosistema altoandino    AMRIE015    APCOL009
+AAAM0035    Quebrada de Los Murciélagos    Contaminación de aguas por vertidos de residuos afecta la vida acuática.    AMRIE004    APCOL009
+AAAM0036    Ladera de Los Cóndores    Urbanización no regulada fragmenta hábitats y amenaza la biodiversidad.    AMRIE026    APCOL009    
+AAAM0037    Isla de Malpelo    Pesca ilegal amenaza la biodiversidad marina única de la región.    AMRIE012    APCOL010
+AAAM0038    Arrecifes de Coral de Malpelo    Contaminación de aguas por vertidos de desechos afecta los ecosistemas coralinos.    AMRIE004    APCOL010
+AAAM0039    Fauna Marina de Malpelo    Cambio climático altera los patrones de migración y afecta la reproducción de especies.    AMRIE017    APCOL010
+AAAM0040    Acantilados de Malpelo    Erosión costera acelerada por el aumento del nivel del mar amenaza la estabilidad de los acantilados.    AMRIE018    APCOL010
+AAAM0041    Laguna de Chingaza    Contaminación de aguas por desechos afecta la calidad del agua y la vida acuática.    AMRIE004    APCOL011
+AAAM0042    Bosques de Chingaza    Deforestación para la expansión agrícola compromete la biodiversidad.    AMRIE001    APCOL011
+AAAM0043    Páramo de Chingaza    Fragmentación de hábitats por urbanización amenaza especies endémicas.    AMRIE030    APCOL011
+AAAM0044    Cuchilla de Chingaza    Sequías prolongadas debido al cambio climático impactan la disponibilidad de agua.    AMRIE002    APCOL011
+AAAM0045    Isla de Gorgona    Pesca ilegal amenaza la biodiversidad marina única de la región.    AMRIE012    APCOL012
+AAAM0046    Arrecifes de Coral de Gorgona    Contaminación de aguas por vertidos de desechos afecta los ecosistemas coralinos    AMRIE004    APCOL012
+AAAM0047    Fauna Marina de Gorgona    Cambio climático altera los patrones de migración y afecta la reproducción de especies    AMRIE017    APCOL012
+AAAM0048    Acantilados de Gorgona    Erosión costera acelerada por el aumento del nivel del mar amenaza la estabilidad de los acantilados.    AMRIE018    APCOL012
+AAAM0049    Bahía Málaga    Vertidos de petróleo amenazan la vida acuática y terrestre    AMRIE009    APCOL013
+AAAM0050    Manglares de Bahía Málaga    Deforestación continua amenaza la diversidad biológica    AMRIE001    APCOL013
+AAAM0051    Isla Palma    Urbanización no regulada afecta los hábitats y la conectividad biológica.    AMRIE026    APCOL013
+AAAM0052    Playas de Bahía Málaga    Contaminación de aguas por desechos afecta la calidad del agua y la vida marina.    AMRIE004    APCOL013
+AAAM0053    Caño Cristales    Fragmentación de hábitats por urbanización amenaza especies endémicas.    AMRIE030    APCOL014
+AAAM0054    Cascadas de La Macarena    Inundaciones debido al cambio climático impactan la estabilidad de los ecosistemas.    AMRIE024    APCOL014
+AAAM0055    Mesa de La Macarena    Acidificación de suelos debido a prácticas agrícolas no sostenibles afecta la fertilidad del suelo.    AMRIE023    APCOL014
+AAAM0056    Cavernas de La Macarena    Aumento de nivel del mar amenaza la estabilidad de las cavernas costeras.    AMRIE018    APCOL014

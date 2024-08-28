@@ -1,0 +1,40 @@
+THAB0001    Bosque tropical
+THAB0002    Bosque de montaña
+THAB0003    Bosque de niebla
+THAB0004    Manglar
+THAB0005    Sabana
+THAB0006    Pradera
+THAB0007    Selva tropical húmeda
+THAB0008    Selva tropical seca
+THAB0009    Pantano
+THAB0010    Arrecife de coral
+THAB0011    Desierto
+THAB0012    Montaña rocosa
+THAB0013    Estepa
+THAB0014    Tundra
+THAB0015    Humedal
+THAB0016    Ciénaga
+THAB0017    Glaciar
+THAB0018    Río
+THAB0019    Arroyo
+THAB0020    Laguna
+THAB0021    Estanque
+THAB0022    Marisma
+THAB0023    Estuario
+THAB0024    Cañón
+THAB0025    Acantilado marino
+THAB0026    Costa arenosa
+THAB0027    Costa rocosa
+THAB0028    Isla
+THAB0029    Volcán
+THAB0030    Desfiladero
+THAB0031    Valle
+THAB0032    Colina
+THAB0033    Meseta
+THAB0034    Fondo marino
+THAB0035    Aguas profundas
+THAB0036    Cueva
+THAB0037    Océano abierto
+THAB0038    Zona intermareal
+THAB0039    Bahía
+THAB0040    Fiordo

@@ -1,0 +1,15 @@
+TIEC0001    Bosque tropical húmedo
+TIEC0002    Bosque de niebla
+TIEC0003    Bosque de montaña
+TIEC0004    Bosque seco tropical
+TIEC0005    Sabana
+TIEC0006    Humedales
+TIEC0007    Manglares
+TIEC0008    Ecosistemas de páramo
+TIEC0009    Ecosistemas de alta montaña
+TIEC0010    Ecosistemas de lagunas
+TIEC0011    Bosque de galería
+TIEC0012    Arrecifes de coral
+TIEC0013    Estuarios
+TIEC0014    Lagunas y cuerpos de agua dulce
+TIEC0015    Ecosistemas marinos costeros

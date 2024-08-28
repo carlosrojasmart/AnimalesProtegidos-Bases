@@ -1,0 +1,50 @@
+ACTC0001    Reforestacion y restauracion de bosques    Esta actividad consiste en plantar arboles y restaurar areas boscosas para aumentar la cobertura forestal.    2022-03-01    APCOL007
+ACTC0002    Captacion y almacenamiento de agua    Se trata de desarrollar sistemas para la captacion y almacenamiento de agua, asegurando su disponibilidad.    2021-11-15    APCOL005
+ACTC0003    Gestion sostenible de recursos    Implica administrar de manera responsable los recursos naturales para su uso sostenible a largo plazo.    2023-05-20    APCOL004
+ACTC0004    Tratamiento de aguas residuales    Proceso de tratamiento para eliminar contaminantes y mejorar la calidad del agua antes de su liberacion al ambiente.    2020-09-10    APCOL013
+ACTC0005    Practicas agricolas organicas    Promueve el uso de metodos agricolas que no empleen quimicos sinteticos para conservar la salud del suelo y del agua.    2022-06-30    APCOL006
+ACTC0006    Reduccion de emisiones industriales    Implementacion de tecnologias y practicas para reducir las emisiones de las industrias y minimizar su impacto ambiental.    2021-08-25    APCOL003
+ACTC0007    Apagado de luces innecesarias    Apagar luces no necesarias para reducir el consumo de energia y la huella de carbono.    2023-02-12    APCOL001
+ACTC0008    Control y erradicacion de especies invasoras    Medidas para controlar y eliminar especies invasoras que amenazan la biodiversidad nativa.    2021-12-05    APCOL012
+ACTC0009    Prevencion y limpieza de derrames    Acciones para prevenir derrames de sustancias contaminantes y limpiar areas afectadas en caso de accidentes.    2022-10-18    APCOL014
+ACTC0010    Implementacion de tecnicas de conservacion del suelo    Tecnicas para conservar la estructura y fertilidad del suelo, evitando la erosion y perdida de nutrientes.    2020-07-22    APCOL011
+ACTC0011    Reforzamiento de medidas de vigilancia    Fortalecimiento de la vigilancia y aplicacion de medidas de seguridad para proteger areas vulnerables.    2021-04-14    APCOL002
+ACTC0012    Refuerzo de regulaciones pesqueras    Refuerzo de normativas y practicas para regular la pesca y proteger los recursos marinos.    2022-01-08    APCOL010
+ACTC0013    Fomento de practicas de extraccion sostenible    Promocion de metodos de extraccion que no agoten los recursos y permitan su regeneracion natural.    2023-09-03    APCOL008
+ACTC0014    Planificacion urbana sostenible    Planificacion urbana que integra criterios ambientales para reducir el impacto negativo en los ecosistemas.    2021-10-30    APCOL009
+ACTC0015    Regulacion y control del turismo    Control y regulacion de la actividad turistica para minimizar su impacto en areas sensibles.    2020-12-28    APCOL008
+ACTC0016    Reduccion de emisiones de CO2    Reduccion de emisiones de dioxido de carbono para mitigar el cambio climatico y sus efectos.    2022-08-11    APCOL004
+ACTC0017    Mitigacion y adaptacion al cambio climatico    Acciones para adaptarse a los cambios climaticos y reducir su impacto en el medio ambiente y la sociedad.    2023-07-04    APCOL007
+ACTC0018    Implementacion de medidas de proteccion costera    Medidas para proteger las zonas costeras de la erosion y los fenomenos climaticos extremos.    2020-06-15    APCOL012
+ACTC0019    Restauracion de ecosistemas degradados    Restauracion de areas degradadas para recuperar su funcionalidad ecologica y biodiversidad.    2021-03-09    APCOL010
+ACTC0020    Monitoreo y control sanitario    Vigilancia y control sanitario para prevenir y gestionar enfermedades que afecten a la fauna y flora.    2022-04-25    APCOL009
+ACTC0021    Preservacion de habitats criticos    Preservacion de habitats criticos para conservar la diversidad biologica y garantizar la supervivencia de especies.    2023-01-19    APCOL011
+ACTC0022    Recoleccion y reciclaje de residuos plasticos    Recogida y procesamiento de residuos plasticos para reducir la contaminacion en los ecosistemas.    2020-11-07    APCOL013
+ACTC0023    Neutralizacion de suelos acidos    Neutralizacion de la acidez del suelo mediante tecnicas de correccion y manejo adecuado.    2021-09-02    APCOL006
+ACTC0024    Mejora de infraestructuras de drenaje    Mejora de la infraestructura de drenaje para prevenir inundaciones y mejorar la gestion del agua.    2022-12-20    APCOL005
+ACTC0025    Practicas de conservacion del suelo    Practicas para conservar la estructura y fertilidad del suelo, evitando la erosion y perdida de nutrientes.    2023-06-08    APCOL011
+ACTC0026    Planificacion urbana sostenible    Planificacion urbana que prioriza el desarrollo sostenible y la conservacion del medio ambiente.    2020-10-02    APCOL009
+ACTC0027    Aplicacion de regulaciones de construccion    Aplicacion de normativas para garantizar que las construcciones sean respetuosas con el entorno.    2021-05-16    APCOL014
+ACTC0028    Reduccion de emisiones de gases de efecto invernadero    Reduccion de las emisiones de gases de efecto invernadero para mitigar el cambio climatico.    2022-02-28    APCOL012
+ACTC0029    Prevencion y combate de incendios    Prevencion y extincion de incendios forestales para proteger los ecosistemas y comunidades.    2023-08-14    APCOL004
+ACTC0030    Creacion de corredores ecologicos    Creacion de corredores ecologicos para conectar areas naturales y favorecer el flujo de especies.    2020-08-08    APCOL001
+ACTC0031    Restauración de humedales    Recuperación de humedales para preservar su valor ecológico y proporcionar hábitats vitales para la fauna y flora acuática.    2023-11-29    APCOL008
+ACTC0032    Protección de especies en peligro    Implementación de medidas para conservar especies en riesgo, incluyendo programas de reproducción y protección de hábitats.    2021-07-03    APCOL010
+ACTC0033    Agricultura sostenible    Fomento de prácticas agrícolas que maximicen la producción de alimentos y minimicen el impacto ambiental en áreas protegidas.    2022-09-17    APCOL011
+ACTC0034    Restauración de arrecifes de coral    Rehabilitación de arrecifes dañados para preservar la biodiversidad marina en zonas protegidas.    2020-12-12    APCOL012
+ACTC0035    Educación ambiental    Desarrollo de programas educativos para aumentar la conciencia sobre la importancia de la conservación en áreas protegidas.    2021-02-05    APCOL007
+ACTC0036    Energías renovables    Promoción del uso de energías limpias para reducir la dependencia de combustibles fósiles en áreas protegidas.    2022-05-13    APCOL006
+ACTC0037    Restauración de paisajes degradados    Rehabilitación de paisajes degradados por actividades humanas para conservar la biodiversidad en áreas protegidas.    2023-04-06    APCOL014
+ACTC0038    Calidad del aire    Implementación de medidas para reducir la contaminación atmosférica y proteger la salud de los ecosistemas en áreas protegidas.    2021-01-22    APCOL005
+ACTC0039    Restauración de ríos y cuencas    Rehabilitación de ríos y cuencas para preservar los ecosistemas acuáticos en áreas protegidas.    2022-07-07    APCOL008
+ACTC0040    Reservas naturales    Creación y gestión de reservas para proteger hábitats importantes y fomentar la conservación en áreas protegidas.    2020-09-30    APCOL010
+ACTC0041    Control de deforestación    Implementación de políticas para frenar la pérdida de bosques y proteger la biodiversidad en áreas protegidas.    2021-12-28    APCOL007
+ACTC0042    Restauración de ecosistemas costeros    Rehabilitación de ecosistemas costeros para proteger contra la erosión y conservar la vida marina en áreas protegidas.    2023-09-21    APCOL012
+ACTC0043    Rehabilitación de suelos contaminados    Remediación de suelos afectados por contaminantes para preservar la salud de los ecosistemas en áreas protegidas.    2020-11-14    APCOL004
+ACTC0044    Transporte verde    Promoción de medios de transporte sostenibles para reducir las emisiones y proteger la calidad del aire en áreas protegidas.    2022-03-17    APCOL014
+ACTC0045    Restauración de corales blanqueados    Rehabilitación de corales afectados por el blanqueamiento para preservar la biodiversidad marina en áreas protegidas.    2021-08-02    APCOL010
+ACTC0046    Consumo responsable    Fomento del consumo consciente para reducir la generación de residuos y proteger los recursos naturales en áreas protegidas.    2022-01-31    APCOL013
+ACTC0047    Restauración de sistemas fluviales    Rehabilitación de ríos y arroyos para mejorar la calidad del agua y preservar los ecosistemas acuáticos en áreas protegidas.    2023-10-25    APCOL008
+ACTC0048    Biodiversidad urbana    Conservación de la biodiversidad en entornos urbanos cercanos a áreas protegidas para promover la coexistencia entre humanos y vida silvestre.    2020-12-19    APCOL001
+ACTC0049    Restauración de turberas    Rehabilitación de turberas dañadas para conservar el carbono almacenado y preservar hábitats especiales en áreas protegidas.    2021-05-08    APCOL009
+ACTC0050    Ecoturismo responsable    Promoción de actividades turísticas que respeten el medio ambiente y beneficien a las comunidades locales en áreas protegidas.    2022-02-19    APCOL007

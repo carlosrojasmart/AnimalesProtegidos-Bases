@@ -1,0 +1,190 @@
+5230759    Tachycineta albiventer    White-winged Swallow    kingdom: Animalia - class: Aves    THAB0002    ESTC0026
+3072468    Aparisthmium cordatum    Aparisthmium cordatum    kingdom: Plantae - class: Magnoliopsida    THAB0001    ESTC0019
+2488602    Thraupis episcopus    Blue-gray Tanager    kingdom: Animalia - class: Aves    THAB0002    ESTC0007
+2490137    Cercomacra cinerascens    Gray Antbird    kingdom: Animalia - class: Aves    THAB0003    ESTC0021
+9598458    Arocera aequinoxialis    Arocera aequinoxialis    kingdom: Animalia - class: Insecta    THAB0007    ESTC0013
+2478122    Melanerpes cruentatus    Yellow-tufted Woodpecker    kingdom: Animalia - class: Aves    THAB0002    ESTC0027
+2968237    Dussia tessmannii Harms    Dussia tessmannii    kingdom: Plantae - class: Magnoliopsida    THAB0001    ESTC0008
+2480720    Ictinia plumbea    Plumbeous Kite    kingdom: Animalia - class: Aves    THAB0007    ESTC0015
+2492082    Paroaria gularis    Red-capped Cardinal    kingdom: Animalia - class: Aves    THAB0002    ESTC0018
+5959228    Ara severus    Chestnut-fronted Macaw    kingdom: Animalia - class: Aves    THAB0007    ESTC0029
+7608475    Naucleopsis glabra Spruce ex Baillon    Naucleopsis glabra    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0017
+8054047    Rogeria scobinata Kugler    Rogeria scobinata    kingdom: Animalia - class: Insecta    THAB0002    ESTC0003
+2338858    Leiarius marmoratus    Sailfin pimeloid    kingdom: Animalia - class: Null    THAB0009    ESTC0023
+10874246    Hemigrammus amacayacu    Hemigrammus amacayacu    kingdom: Animalia - class: Null    THAB0009    ESTC0020
+10289996    Leptobalanus apetalus    Leptobalanus apetalus    kingdom: Plantae - class: Magnoliopsida    THAB0001    ESTC0002
+2429137    Oophaga histrionica    Harlequin Poison Frog    kingdom: Animalia - class: Amphibia    THAB0007    ESTC0028
+2480951    Ardea cocoi Linnaeus    Cocoi Heron    kingdom: Animalia - class: Aves    THAB0009    ESTC0022
+5216636    Atelopus spurrelli Boulenger    Condoto Stubfoot Toad    kingdom: Animalia - class: Amphibia    THAB0007    ESTC0010
+7322182    Ludwigia affinis    Ludwigia affinis    kingdom: Plantae - class: Magnoliopsida    THAB0009    ESTC0016
+5218021    Phyllobates aurotaenia    Kokoe Poison Frog    kingdom: Animalia - class: Amphibia    THAB0007    ESTC0024
+5789280    Sternula superciliaris    Yellow-billed Tern    kingdom: Animalia - class: Aves    THAB0037    ESTC0012
+2486467    Tityra semifasciata    Masked Tityra    kingdom: Animalia - class: Aves    THAB0002    ESTC0011
+2483531    Myiarchus tuberculifer    Dusky-capped Flycatcher    kingdom: Animalia - class: Aves    THAB0002    ESTC0025
+2497011    Hydropsalis climacocerca    Ladder-tailed Nightjar    kingdom: Animalia - class: Aves    THAB0011    ESTC0005
+5231162    Emberizoides herbicola    Wedge-tailed Grass-Finch    kingdom: Animalia - class: Aves    THAB0005    ESTC0020
+2490519    Grallaria milleri Chapman    Brown-banded Antpitta    kingdom: Animalia - class: Aves    THAB0003    ESTC0001
+2496210    Crotophaga major Gmelin    Greater Ani    kingdom: Animalia - class: Aves    THAB0005    ESTC0014
+2496647    Trogon viridis Linnaeus    Green-backed Trogon    kingdom: Animalia - class: Aves    THAB0007    ESTC0006
+2493744    Coereba flaveola    Bananaquit    kingdom: Animalia - class: Aves    THAB0002    ESTC0029
+5229832    Cacicus cela    Yellow-rumped Cacique    kingdom: Animalia - class: Aves    THAB0002    ESTC0026
+9377161    Kleinothraupis atropileus    Black-capped Hemispingus    kingdom: Animalia - class: Aves    THAB0002    ESTC0004
+9105847    Saltator olivascens Cabanis    Caribbean Grey Saltator    kingdom: Animalia - class: Aves    THAB0001    ESTC0027
+2489177    Notiochelidon murina    Brown-bellied Swallow    kingdom: Animalia - class: Aves    THAB0002    ESTC0009
+2493957    Henicorhina leucophrys    Gray-breasted Wood-Wren    kingdom: Animalia - class: Aves    THAB0002    ESTC0019
+5230680    Diglossa humeralis    Black Flower-piercer    kingdom: Animalia - class: Aves    THAB0002    ESTC0013
+9376700    Heliangelus clarisse    Longuemare's Sunangel    kingdom: Animalia - class: Aves    THAB0002    ESTC0022
+5230649    Diglossa albilatera Lafresnaye    White-sided Flower-piercer    kingdom: Animalia - class: Aves    THAB0002    ESTC0025
+2483822    Mecocerculus leucophrys    White-throated Tyrannulet    kingdom: Animalia - class: Aves    THAB0002    ESTC0016
+7342083    Diglossa caerulescens    Bluish Flower-piercer    kingdom: Animalia - class: Aves    THAB0002    ESTC0023
+4011320    Elaphoglossum pteropodum    Elaphoglossum pteropodum    kingdom: Plantae - class: Polypodiopsida    THAB0002    ESTC0028
+2488106    Tangara nigroviridis    Beryl-spangled Tanager    kingdom: Animalia - class: Aves    THAB0002    ESTC0007
+11144039    Grallaria saturata Domaniewski    Equatorial Antpitta    kingdom: Animalia - class: Aves    THAB0003    ESTC0021
+2477033    Coeligena bonapartei    Golden-bellied Starfrontlet    kingdom: Animalia - class: Aves    THAB0002    ESTC0012
+3866257    Miconia squamulosa    Squamulose Maya    kingdom: Plantae - class: Magnoliopsida    THAB0001    ESTC0024
+7341947    Arremon brunneinucha    Chestnut-capped Brush-Finch    kingdom: Animalia - class: Aves    THAB0002    ESTC0014
+2493788    Cinnycerthia unirufa    Rufous Wren    kingdom: Animalia - class: Aves    THAB0002    ESTC0002
+5230603    Conirostrum sitticolor Lafresnaye    Blue-backed Conebill    kingdom: Animalia - class: Aves    THAB0002    ESTC0020
+2483172    Ochthoeca diadema    Yellow-bellied Chat-Tyrant    kingdom: Animalia - class: Aves    THAB0002    ESTC0008
+2481816    Gallinago jamesoni    Andean Snipe    kingdom: Animalia - class: Aves    THAB0009    ESTC0011
+3105073    Espeletia curialensis Cuatrec    Espeletia curialensis    kingdom: Plantae - class: Magnoliopsida    THAB0033    ESTC0015
+5290083    Alopecurus aequalis Sobol    Orange Foxtail    kingdom: Plantae - class: Liliopsida    THAB0006    ESTC0003
+3112142    Soliva mexicana DC    Soliva mexicana    kingdom: Plantae - class: Magnoliopsida    THAB0006    ESTC0026
+1092730    Canthon semiopacus Harold    Canthon semiopacus    kingdom: Animalia - class: Insecta    THAB0002    ESTC0005
+2490136    Cercomacra tyrannina    Dusky Antbird    kingdom: Animalia - class: Aves    THAB0003    ESTC0027
+4172779    Gaultheria anastomosans    Gaultheria anastomosans    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0029
+5231103    Zonotrichia capensis    Rufous-collared Sparrow    kingdom: Animalia - class: Aves    THAB0006    ESTC0010
+2495858    Columbina talpacoti    Ruddy Ground-Dove    kingdom: Animalia - class: Aves    THAB0005    ESTC0004
+5566998    Melpomene moniliformis    Melpomene moniliformis    kingdom: Plantae - class: Polypodiopsida    THAB0001    ESTC0018
+5684715    Plutarchia monantha    Plutarchia monantha    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0017
+4055859    Buddleja bullata Kunth    Buddleja bullata    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0001
+2597761    Penicillium thomii Maire    Penicillium thomii    kingdom: Fungi - class: Eurotiomycetes    THAB0036    ESTC0019
+3613935    Weinmannia mariquitae Szyszyl    Weinmannia mariquitae    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0028
+8376201    Escallonia myrtilloides    Escallonia myrtilloides    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0009
+2491197    Catamenia inornata    Plain-colored Seedeater    kingdom: Animalia - class: Aves    THAB0005    ESTC0016
+9630100    Caballeronia glathei    Caballeronia glathei    kingdom: Bacteria - class: Gammaproteobacteria    THAB0004    ESTC0002
+2425718    Pristimantis uranobates    Caldas Robber Frog    kingdom: Animalia - class: Amphibia    THAB0007    ESTC0024
+2914207    Galium hypocarpium    Galium hypocarpium    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0025
+3129545    Baccharis genistelloides    Baccharis genistelloides    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0007
+2754176    Bomarea linifolia    Bomarea linifolia    kingdom: Plantae - class: Liliopsida    THAB0002    ESTC0023
+5566393    Jamesonia bogotensis    Jamesonia bogotensis    kingdom: Plantae - class: Polypodiopsida    THAB0003    ESTC0011
+7785474    Hesperomeles ferruginea    Hesperomeles ferruginea    kingdom: Plantae - class: Magnoliopsida    THAB0001    ESTC0012
+2489208    Notiochelidon cyanoleuca    Blue-and-white Swallow    kingdom: Animalia - class: Aves    THAB0002    ESTC0003
+7322867    Fuchsia petiolaris Kunth    Fuchsia petiolaris    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0021
+2483914    Pyrrhomyias cinnamomeus    Cinnamon Flycatcher    kingdom: Animalia - class: Aves    THAB0002    ESTC0013
+2486368    Pipreola arcuata    Barred Fruiteater    kingdom: Animalia - class: Aves    THAB0002    ESTC0020
+2497365    Megascops choliba    Tropical Screech-Owl    kingdom: Animalia - class: Aves    THAB0002    ESTC0010
+2489837    Myioborus miniatus    Slate-throated Redstart / Slate-throated Whitestart    kingdom: Animalia - class: Aves    THAB0002    ESTC0026
+2479901    Pionus chalcopterus    Bronze-winged Parrot    kingdom: Animalia - class: Aves    THAB0001    ESTC0005
+2482224    Penelope perspicax    Cauca Guan    kingdom: Animalia - class: Aves    THAB0002    ESTC0027
+2491741    Volatinia jacarina    Blue-black Grassquit    kingdom: Animalia - class: Aves    THAB0005    ESTC0018
+2490848    Myadestes ralloides    Andean Solitaire    kingdom: Animalia - class: Aves    THAB0002    ESTC0008
+5231647    Spinus psaltria    Lesser Goldfinch    kingdom: Animalia - class: Aves    THAB0002    ESTC0014
+2440899    Tapirus pinchaque    mountain tapir    kingdom: Animalia - class: Mammalia    THAB0002    ESTC0017
+6101211    Aulacorhynchus albivitta    White-throated Toucanet    kingdom: Animalia - class: Aves    THAB0002    ESTC0004
+5229662    Tyrannus melancholicus    Tropical Kingbird    kingdom: Animalia - class: Aves    THAB0002    ESTC0022
+2496287    Coccyzus americanus    Yellow-billed Cuckoo    kingdom: Animalia - class: Aves    THAB0002    ESTC0029
+9436876    Thraupis palmarum    Palm Tanager    kingdom: Animalia - class: Aves    THAB0001    ESTC0001
+2483936    Zimmerius chrysops    Golden-faced Tyrannulet    kingdom: Animalia - class: Aves    THAB0002    ESTC0019
+5220122    Mazama rufina    Ecuador Red Brocket    kingdom: Animalia - class: Mammalia    THAB0002    ESTC0012
+2433192    Glossophaga longirostris Miller    Miller's Long-tongued Bat    kingdom: Animalia - class: Mammalia    THAB0001    ESTC0015
+6893780    Tityus tayrona Louren    scorpiones    kingdom: Animalia - class: Arachnida    THAB0011    ESTC0028
+5349322    Pterocarpus rohrii Vahl    Pterocarpus rohrii    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0023
+7999386    Ipomoea pes-caprae    railroadvine    kingdom: Plantae - class: Magnoliopsida    THAB0026    ESTC0025
+5230942    Saltator maximus    Buff-throated Saltator    kingdom: Animalia - class: Aves    THAB0002    ESTC0006
+7265169    Melicoccus oliviformis Kunth    Melicoccus oliviformis    kingdom: Plantae - class: Magnoliopsida    THAB0001    ESTC0020
+2482882    Tolmomyias sulphurescens    Yellow-olive Flycatcher / Yellow-olive Flatbill    kingdom: Animalia - class: Aves    THAB0002    ESTC0016
+2433272    Artibeus jamaicensis Leach    Jamaican fruit bat    kingdom: Animalia - class: Mammalia    THAB0001    ESTC0003
+2481846    Jacana jacana    Wattled Jacana    kingdom: Animalia - class: Aves    THAB0009    ESTC0027
+9784990    Sphyraena barracuda    great barracuda    kingdom: Animalia - class: Null    THAB0037    ESTC0024
+3086528    Rhizophora mangle L.    Red mangrove    kingdom: Plantae - class: Magnoliopsida    THAB0004    ESTC0009
+2484217    Psarocolius decumanus    Crested Oropendola    kingdom: Animalia - class: Aves    THAB0001    ESTC0007
+9819034    Saltator coerulescens    Grayish Saltator    kingdom: Animalia - class: Aves    THAB0002    ESTC0011
+2481930    Cathartes aura    Turkey Vulture    kingdom: Animalia - class: Aves    THAB0002    ESTC0002
+7300855    Boehmeria ramiflora Jacq    Boehmeria ramiflora    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0013
+2484103    Chrysomus icterocephalus    Yellow-hooded Blackbird    kingdom: Animalia - class: Aves    THAB0002    ESTC0026
+2490787    Turdus olivater    Black-hooded Thrush    kingdom: Animalia - class: Aves    THAB0002    ESTC0029
+5175641    Ligia simoni    Ligia simoni    kingdom: Animalia - class: Malacostraca    THAB0038    ESTC0005
+2483490    Myiodynastes chrysocephalus    Golden-crowned Flycatcher    kingdom: Animalia - class: Aves    THAB0002    ESTC0010
+3071783    Mabea trianae Pax    Mabea trianae    kingdom: Plantae - class: Magnoliopsida    THAB0001    ESTC0018
+2343888    Platydoras armatulus    southern striped Raphael    kingdom: Animalia - class: Null    THAB0034    ESTC0028
+5962432    Ctenobrycon oliverai Benine    Silver Tetra    kingdom: Animalia - class: Null    THAB0035    ESTC0021
+5229146    Vanellus chilensis    Southern Lapwing    kingdom: Animalia - class: Aves    THAB0006    ESTC0022
+5545128    Ludwigia rigida    Ludwigia rigida    kingdom: Plantae - class: Magnoliopsida    THAB0015    ESTC0017
+2477436    Tachornis squamata    Fork-tailed Palm-Swift / Neotropical Palm-Swift    kingdom: Animalia - class: Aves    THAB0001    ESTC0012
+8953936    Caiman crocodilus    Common caiman    kingdom: Animalia - class: Crocodylia    THAB0009    ESTC0001
+2480790    Theristicus caudatus    Buff-necked Ibis    kingdom: Animalia - class: Aves    THAB0015    ESTC0020
+2481006    Falco femoralis Temminck    Aplomado Falcon    kingdom: Animalia - class: Aves    THAB0005    ESTC0016
+7304294    Nectandra cuspidata    Nectandra cuspidata    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0008
+1930621    Thecla aetolus    Thecla aetolus    kingdom: Animalia - class: Insecta    THAB0001    ESTC0025
+4187211    Piper ramosense    Piper ramosense    kingdom: Plantae - class: Magnoliopsida    THAB0001    ESTC0023
+2483402    Lophotriccus pileatus    Scale-crested Pygmy-Tyrant    kingdom: Animalia - class: Aves    THAB0002    ESTC0004
+5128034    Dryas iulia    Julia Heliconian    kingdom: Animalia - class: Insecta    THAB0001    ESTC0003
+4171081    Disterigma empetrifolium    Disterigma empetrifolium    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0027
+5130528    Junonia evarete Cramer    Mangrove Buckeye    kingdom: Animalia - class: Insecta    THAB0004    ESTC0019
+1919656    Phoebis argante    Apricot Sulphur    kingdom: Animalia - class: Insecta    THAB0001    ESTC0010
+2760702    Heliconia dielsiana Loes    Heliconia dielsiana    kingdom: Plantae - class: Liliopsida    THAB0002    ESTC0014
+4185986    Peperomia striata    Peperomia striata    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0026
+5308859    Fernandezia sanguinea    Fernandezia sanguinea    kingdom: Plantae - class: Liliopsida    THAB0002    ESTC0011
+3108061    Senecio hypsobates Wedd    Senecio hypsobates    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0028
+2485362    Syndactyla subalaris    Lineated Foliage-gleaner    kingdom: Animalia - class: Aves    THAB0002    ESTC0015
+1938199    Protesilaus telesilaus    Protesilaus telesilaus    kingdom: Animalia - class: Insecta    THAB0001    ESTC0009
+5128433    Eunica malvina Bates    Eunica malvina    kingdom: Animalia - class: Insecta    THAB0001    ESTC0007
+5289310    Vriesea zamorensis    Vriesea zamorensis    kingdom: Plantae - class: Liliopsida    THAB0001    ESTC0029
+10677468    Cordillera platycalyx    Cordillera platycalyx    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0024
+1908258    Taygetis andromeda Cramer    Taygetis andromeda    kingdom: Animalia - class: Insecta    THAB0001    ESTC0022
+5132003    Limenitis malea    Limenitis malea    kingdom: Animalia - class: Insecta    THAB0001    ESTC0020
+7415507    Leiothlypis peregrina    Tennessee Warbler    kingdom: Animalia - class: Aves    THAB0002    ESTC0005
+5842775    Diadema mexicanum A.Agassiz    Diadema mexicanum    kingdom: Animalia - class: Echinoidea    THAB0010    ESTC0006
+5209135    Prionurus laticlavius    Razor Surgeonfish    kingdom: Animalia - class: Null    THAB0010    ESTC0013
+2480726    Pandion haliaetus    Osprey    kingdom: Animalia - class: Aves    THAB0027    ESTC0018
+5969864    Platypodiella gemmata    Platypodiella gemmata    kingdom: Animalia - class: Malacostraca    THAB0038    ESTC0017
+5184766    Porites lobata Dana    hump coral    kingdom: Animalia - class: Anthozoa    THAB0010    ESTC0001
+5209721    Bodianus diplotaenia    Mexican hogfish    kingdom: Animalia - class: Null    THAB0010    ESTC0021
+2374663    Zanclus cornutus    Moorish Idol    kingdom: Animalia - class: Null    THAB0010    ESTC0016
+8997374    Diploglossus millepunctatus O'Shaughnessy    Dotted galliwasp    kingdom: Animalia - class: Squamata    THAB0001    ESTC0002
+2260542    Pavona clavus    leaf coral    kingdom: Animalia - class: Anthozoa    THAB0010    ESTC0023
+2398772    Stegastes arcifrons    Galapagos gregory    kingdom: Animalia - class: Null    THAB0010    ESTC0025
+5842758    Tripneustes depressus    Tripneustes depressus    kingdom: Animalia - class: Echinoidea    THAB0034    ESTC0027
+2481225    Creagrus furcatus    Swallow-tailed Gull    kingdom: Animalia - class: Aves    THAB0027    ESTC0012
+2389031    Mycteroperca olfax    sailfin grouper    kingdom: Animalia - class: Null    THAB0034    ESTC0008
+4311601    Calcinus obscurus Stimpson    Calcinus obscurus    kingdom: Animalia - class: Malacostraca    THAB0034    ESTC0003
+6516394    Siphonaria maura G.B.Sowerby    Siphonaria maura    kingdom: Animalia - class: Gastropoda    THAB0038    ESTC0010
+5034771    Camponotus sericeiventris    Camponotus sericeiventris    kingdom: Animalia - class: Insecta    THAB0001    ESTC0028
+1314142    Ectatomma goninion Kugler    Ectatomma goninion    kingdom: Animalia - class: Insecta    THAB0001    ESTC0019
+5229361    Puffinus lherminieri Lesson    Audubon's Shearwater    kingdom: Animalia - class: Aves    THAB0037    ESTC0026
+2480824    Butorides striata    Striated Heron    kingdom: Animalia - class: Aves    THAB0015    ESTC0015
+2398672    Abudefduf troschelii    Pacific sergeant major    kingdom: Animalia - class: Null    THAB0010    ESTC0014
+5035364    Odontomachus bauri Emery    Odontomachus bauri    kingdom: Animalia - class: Insecta    THAB0001    ESTC0022
+4311750    Clibanarius albidigitus Nobili    Clibanarius albidigitus    kingdom: Animalia - class: Malacostraca    THAB0038    ESTC0009
+2489985    Setophaga ruticilla    American Redstart    kingdom: Animalia - class: Aves    THAB0002    ESTC0004
+1340577    Euglossa gorgonensis Cheesman    Euglossa gorgonensis    kingdom: Animalia - class: Insecta    THAB0001    ESTC0020
+12335869    Archaeoprepona demophon    Archaeoprepona demophon    kingdom: Animalia - class: Insecta    THAB0001    ESTC0029
+10738988    Succinea aequinoctialis d'Orbigny    Succinea aequinoctialis    kingdom: Animalia - class: Gastropoda    THAB0001    ESTC0011
+5189971    Nerita funiculata Menke    Nerita funiculata    kingdom: Animalia - class: Gastropoda    THAB0038    ESTC0017
+4382546    Uca panamensis    Uca panamensis    kingdom: Animalia - class: Malacostraca    THAB0038    ESTC0007
+7341038    Cantorchilus leucotis    Buff-breasted Wren    kingdom: Animalia - class: Aves    THAB0007    ESTC0015
+7296368    Rinorea lindeniana    Rinorea lindeniana    kingdom: Plantae - class: Magnoliopsida    THAB0001    ESTC0005
+2481084    Micrastur gilvicollis    Lined Forest-Falcon    kingdom: Animalia - class: Aves    THAB0002    ESTC0010
+7341834    Setophaga petechia    Yellow Warbler / American Yellow Warbler    kingdom: Animalia - class: Aves    THAB0007    ESTC0005
+3862377    Miconia ligustrina    Miconia ligustrina    kingdom: Plantae - class: Magnoliopsida    THAB0001    ESTC0005
+3105109    Espeletia lopezii Cuatrec    Espeletia lopezii    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0005
+3105061    Espeletia cleefii Cuatrec    Espeletia cleefii    kingdom: Plantae - class: Magnoliopsida    THAB0002    ESTC0005
+2490033    Dysithamnus mentalis    Plain Antvireo    kingdom: Animalia - class: Aves    THAB0007    ESTC0005
+2483612    Sayornis nigricans    Black Phoebe    kingdom: Animalia - class: Aves    THAB0007    ESTC0005
+2433194    Glossophaga soricina    Pallas's Long-tongued Bat    kingdom: Animalia - class: Mammalia    THAB0001    ESTC0005
+2481942    Coragyps atratus    Black Vulture    kingdom: Animalia - class: Aves    THAB0007    ESTC0005
+4082281    Goniopteris straminea    Goniopteris straminea    kingdom: Plantae - class: Polypodiopsida    THAB0001    ESTC0005
+2425253    Pristimantis tayrona    Cebolleta Robber Frog    kingdom: Animalia - class: Amphibia    THAB0001    ESTC0005
+8338389    Callichlamys latifolia    Callichlamys latifolia    kingdom: Plantae - class: Magnoliopsida    THAB0001    ESTC0005
+9189710    Muellera sanctae-marthae    Muellera sanctae-marthae    kingdom: Plantae - class: Magnoliopsida    THAB0001    ESTC0005
+2433165    Chiroderma villosum Peters    Hairy Big-eyed Bat    kingdom: Animalia - class: Mammalia    THAB0001    ESTC0005
+2491841    Sicalis citrina Pelzeln    Stripe-tailed Yellow-Finch    kingdom: Animalia - class: Aves    THAB0007    ESTC0005
+2487998    Euphonia laniirostris d'Orbigny    Thick-billed Euphonia    kingdom: Animalia - class: Aves    THAB0007    ESTC0005
+2491624    Arremon schlegeli Bonaparte    Golden-winged Sparrow    kingdom: Animalia - class: Aves    THAB0007    ESTC0005
+2478125    Melanerpes rubricapillus    Red-crowned Woodpecker    kingdom: Animalia - class: Aves    THAB0007    ESTC0005
+5229564    Fluvicola pica    Pied Water-Tyrant    kingdom: Animalia - class: Aves    THAB0007    ESTC0005
+5230811    Vermivora chrysoptera    Golden-winged Warbler    kingdom: Animalia - class: Aves    THAB0007    ESTC0005
+5231459    Troglodytes aedon Vieillot    Northern House-Wren    kingdom: Animalia - class: Aves    THAB0007    ESTC0005
+2487629    Pipra erythrocephala    Golden-headed Manakin    kingdom: Animalia - class: Aves    THAB0007    ESTC0005
+1093377    Ontherus appendiculatus    Ontherus appendiculatus    kingdom: Animalia - class: Insecta    THAB0001    ESTC0005

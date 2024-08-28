@@ -1,0 +1,30 @@
+AMRIE001    Deforestación    Proceso de eliminación de bosques o áreas arboladas, generalmente debido a actividades humanas como la agricultura, la minería o la urbanización.
+AMRIE002    Sequías    Periodos prolongados de tiempo seco que resultan en la escasez de agua.
+AMRIE003    Sobreexplotación    Extracción o uso excesivo de recursos naturales más allá de su capacidad de regeneración.
+AMRIE004    Contaminación de aguas    Introducción de sustancias nocivas, como productos químicos o desechos, en cuerpos de agua, lo que afecta la calidad del agua y la vida acuática.
+AMRIE005    Contaminación de suelo    Acumulación de sustancias químicas o materiales tóxicos en el suelo, lo que puede afectar la salud de las plantas, animales y humanos.
+AMRIE006    Contaminación atmosférica    Presencia de contaminantes en el aire, como gases de escape de vehículos, humo de fábricas y emisiones industriales, que pueden tener efectos negativos en la salud humana y el medio ambiente.
+AMRIE007    Contaminación lumínica    Exceso de iluminación artificial que interfiere con los ciclos naturales de luz y oscuridad, afectando la vida silvestre y la visibilidad del cielo nocturno.
+AMRIE008    Especies invasoras    Organismos introducidos que no son nativos de un ecosistema y que tienen un impacto negativo en las especies autóctonas y en el equilibrio del ecosistema.
+AMRIE009    Vertidos de petróleo    Liberación accidental o intencionada de petróleo en cuerpos de agua, lo que provoca contaminación y daños en los ecosistemas acuáticos y costeros.
+AMRIE010    Erosión de suelo    Pérdida de la capa superior del suelo debido a la acción del viento, el agua y otras fuerzas naturales o humanas, lo que puede provocar la degradación del suelo y la pérdida de la fertilidad.
+AMRIE011    Caza furtiva    Captura o caza ilegal de animales, generalmente para su comercio ilegal, lo que amenaza la supervivencia de especies en peligro de extinción.
+AMRIE012    Pesca ilegal    Captura de peces de manera ilegal, sin seguir las regulaciones pesqueras, lo que puede conducir a la sobreexplotación de las poblaciones de peces y al agotamiento de los recursos pesqueros.
+AMRIE013    Extracción de recursos    Utilización excesiva o no sostenible de recursos naturales, como minerales, madera y agua, que puede agotar los recursos y dañar los ecosistemas.
+AMRIE014    Construcción    Expansión de infraestructuras humanas, como carreteras, edificios y represas, que puede resultar en la pérdida o degradación del hábitat natural.
+AMRIE015    Turismo no regulado    Impactos negativos del turismo sin control sobre los ecosistemas naturales, como la degradación del paisaje, la pérdida de biodiversidad y la alteración de los hábitats.
+AMRIE016    Acidificación de océanos    Aumento de la acidez del océano debido a la absorción de dióxido de carbono atmosférico, lo que puede tener efectos perjudiciales en los organismos marinos y los ecosistemas.
+AMRIE017    Cambio climático    Alteración del clima global debido a la acumulación de gases de efecto invernadero en la atmósfera, lo que provoca cambios en los patrones climáticos, el aumento de la temperatura y otros impactos ambientales.
+AMRIE018    Aumento de nivel del mar    Elevación del nivel del mar debido al derretimiento de los glaciares y la expansión térmica del agua, lo que amenaza a las comunidades costeras y a los ecosistemas costeros.
+AMRIE019    Degradación de hábitat    Alteración o destrucción de los hábitats naturales, lo que provoca la pérdida de biodiversidad y la disminución de las poblaciones de especies.
+AMRIE020    Enfermedades o patógenos en especies protegidas    Propagación de enfermedades o agentes patógenos que afectan a especies en peligro de extinción, poniendo en peligro su supervivencia.
+AMRIE021    Alteración de patrones de migración en aves    Cambios en las rutas migratorias de las aves debido a la alteración de los hábitats naturales y los patrones climáticos, lo que puede afectar sus poblaciones y su capacidad de reproducirse con éxito.
+AMRIE022    Desechos plásticos    Acumulación de desechos plásticos en el medio ambiente, especialmente en los océanos, lo que causa daños a la vida marina y contamina los ecosistemas.
+AMRIE023    Acidificación de suelos    Reducción del pH del suelo debido a la deposición de sustancias ácidas, lo que puede afectar la fertilidad del suelo y la disponibilidad de nutrientes para las plantas.
+AMRIE024    Inundaciones    Desbordamiento de ríos, lagos u otros cuerpos de agua que resulta en la inundación de áreas terrestres, causando daños a la propiedad y poniendo en peligro la vida humana y la vida silvestre.
+AMRIE025    Pérdida de suelos fértiles    Degradación de suelos fértiles debido a la erosión, la contaminación o el uso no sostenible, lo que reduce su capacidad para soportar cultivos y la vida vegetal.
+AMRIE026    Urbanización    Expansión de áreas urbanas en áreas naturales, lo que conduce a la pérdida de hábitat, la fragmentación del paisaje y la disminución de la biodiversidad.
+AMRIE027    Construcción no regulada    Desarrollo de infraestructuras sin considerar los impactos ambientales, lo que puede resultar en la destrucción de hábitats naturales y la pérdida de biodiversidad.
+AMRIE028    Deshielo    Fusión de glaciares y casquetes polares debido al aumento de la temperatura global, lo que contribuye al aumento del nivel del mar y afecta a los ecosistemas de montaña.
+AMRIE029    Incendios forestales    Quemas no controladas de áreas forestales que resultan en la destrucción de la vegetación, la pérdida de hábitat y la liberación de gases de efecto invernadero.
+AMRIE030    Fragmentación    División de hábitats naturales en fragmentos más pequeños debido a la urbanización, la agricultura y otras actividades humanas, lo que puede reducir la conectividad entre poblaciones de especies y aumentar su vulnerabilidad.

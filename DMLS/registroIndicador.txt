@@ -1,0 +1,90 @@
+RIS10001    1200    2016-09-21    Este valor representa una diversidad alfa considerable en el área protegida en la fecha mencionada.    APCOL001    IBDE1A01
+RIS10002    42%    2014-03-12    Indica que el 42% de las especies presentes en el área son endémicas, lo que resalta la importancia de conservar este hábitat único.    APCOL001    IBDE1A03
+RIS10003    0.88    2008-07-05    La resistencia a perturbaciones del ecosistema es alta, con un coeficiente de 0.88, lo que sugiere una buena capacidad para mantener su estructura y funciones frente a impactos externos.    APCOL001    IBSA1C09
+RIS10004    1500    2019-11-29    La calidad del suelo en el área protegida es excelente, con un valor de 1500, lo que indica una fertilidad y estructura óptimas para el mantenimiento de la biodiversidad.    APCOL001    IBSA1C04
+RIS10005    30%    2015-06-18    La eficiencia trófica en el área es del 30%, lo que sugiere una transferencia de energía adecuada entre los diferentes niveles tróficos del ecosistema.    APCOL001    IBVE1D02
+RIS10006    0.65    2011-04-03    La especialización de las especies en el área protegida es alta, con un coeficiente de 0.65, lo que indica una dependencia significativa de recursos específicos dentro del ecosistema.    APCOL001    IBEC1F05
+RIS10007    1400    2016-04-25    Se ha detectado una alta presencia de especies invasoras en el área protegida.    APCOL002    IBDE1A05
+RIS10008    35%    2011-09-08    Se observa una fragmentación significativa del hábitat en el área, lo que puede afectar la conectividad ecológica.    APCOL002    IBAD1B02
+RIS10009    1550    2019-02-17    La calidad del suelo en el área protegida es excepcional, proporcionando un hábitat saludable para la flora y fauna nativa.    APCOL002    IBAD1B04
+RIS10010    0.75    2013-11-30    Se ha identificado una disminución en la integridad de las poblaciones vegetales en el área protegida.    APCOL002    IBEC1F01
+RIS10011    670    2012-05-29    Se ha registrado un aumento en la diversidad genética dentro de las poblaciones de especies endémicas en el área.    APCOL002    IBDE1A09
+RIS10012    0.85    2017-10-11    La resistencia a perturbaciones del ecosistema ha mejorado significativamente en los últimos años.    APCOL002    IBSA1C09 
+RIS10013    45    2018-03-21    Se ha identificado una disminución en el número de especies amenazadas en el área protegida.    APCOL003    IBDE1A04
+RIS10014    0.58    2013-06-09    Se observa una disminución en el índice de rareza en comparación con registros anteriores.    APCOL003    IBDE1A07
+RIS10015    0.62    2020-08-14    Se ha registrado un aumento en la vulnerabilidad del ecosistema debido a perturbaciones externas.    APCOL003    IBSA1C10
+RIS10016    40%    2015-12-30    La eficiencia trófica en el área es del 40%, lo que sugiere una transferencia de energía adecuada entre los diferentes niveles tróficos del ecosistema.    APCOL003    IBVE1D02
+RIS10017    600    2011-07-02    Se ha detectado una disminución en la diversidad genética dentro de las poblaciones de especies endémicas en el área.    APCOL003    IBDE1A09
+RIS10018    0.78    2019-10-05    Se observa una disminución en la resistencia a perturbaciones del ecosistema, lo que puede aumentar su vulnerabilidad a eventos adversos.    APCOL003    IBSA1C09
+RIS10019    3200    2017-09-08    Se ha observado un aumento en la biomasa en el área protegida, lo que indica una mayor producción de materia orgánica por parte de las plantas y otros organismos.    APCOL004    IBVE1D04
+RIS10020    0.67    2014-12-16    Se ha detectado una disminución en la resiliencia frente a especies invasoras en el ecosistema, lo que puede aumentar el riesgo de impactos negativos.    APCOL004    IBSA1C08
+RIS10021    0.53    2019-05-22    Se ha registrado una disminución en la integridad de los humedales dentro del área protegida, lo que puede afectar la salud y funcionalidad de estos ecosistemas.    APCOL004    IBPC1E07
+RIS10022    0.82    2013-08-03    Se observa una disminución en la adaptabilidad de las especies en el área protegida, lo que puede afectar su capacidad para ajustarse a cambios en el entorno.    APCOL004    IBEC1F02
+RIS10023    38    2020-10-30    Se ha registrado un aumento en la diversidad funcional en el área, lo que indica una mayor variedad de funciones ecológicas desempeñadas por las especies presentes.    APCOL004    IBAD1B05
+RIS10024    2700    2011-06-14    Se observa una disminución en la cantidad de especies vegetales presentes en el área protegida, lo que puede indicar una pérdida de biodiversidad vegetal.    APCOL004    IBVE1D02
+RIS10025    2950    2016-08-25    Se ha observado un aumento en la biomasa en el área protegida, lo que indica una mayor producción de materia orgánica por parte de las plantas y otros organismos.    APCOL004    IBVE1D04
+RIS10026    0.72    2018-03-12    Se ha detectado una disminución en la resiliencia frente a especies invasoras en el ecosistema, lo que puede aumentar el riesgo de impactos negativos.    APCOL004    IBSA1C08
+RIS10027    0.61    2020-11-05    Se ha registrado una disminución en la integridad de los humedales dentro del área protegida, lo que puede afectar la salud y funcionalidad de estos ecosistemas.    APCOL004    IBPC1E07
+RIS10028    0.88    2014-06-19    Se observa una disminución en la adaptabilidad de las especies en el área protegida, lo que puede afectar su capacidad para ajustarse a cambios en el entorno.    APCOL004    IBEC1F02
+RIS10029    3100    2017-09-30    Se ha registrado una leve disminución en la biomasa en comparación con mediciones anteriores en el área protegida.    APCOL004    IBVE1D03
+RIS10030    0.68    2019-08-10    Se ha observado un ligero aumento en el estado de las poblaciones en el área protegida, indicando una mejora en la salud y abundancia de las especies presentes.    APCOL004    IBPC1E01
+RIS10031    950    2017-10-18    Se ha observado un aumento en la presencia de especies invasoras en el área protegida, lo que puede afectar la diversidad nativa.    APCOL005    IBDE1A05
+RIS10032    0.53    2015-06-30    Se ha detectado una disminución en la calidad del agua en el área protegida, posiblemente debido a la contaminación por actividades humanas.    APCOL005    IBSA1C02
+RIS10033    78%    2020-02-14    Se ha registrado un aumento en la vulnerabilidad climática del ecosistema, lo que indica una mayor susceptibilidad a los efectos del cambio climático.    APCOL005    IBSA1C12
+RIS10034    65%    2019-11-05    Se observa un aumento en la contaminación del aire en el área protegida, posiblemente debido a la actividad industrial cercana.    APCOL005    IBEC1F03
+RIS10035    4200    2016-08-22    Se ha registrado un aumento en la diversidad funcional en el área, lo que indica una mayor variedad de funciones ecológicas desempeñadas por las especies presentes.    APCOL005    IBVE1D02
+RIS10036    0.72    2018-05-10    Se ha observado una disminución en el estado de los bosques en el área protegida, posiblemente debido a la deforestación y la actividad humana.    APCOL005    IBSA1C11
+RIS10037    1420    2018-10-15    Este valor indica una notable diversidad alfa en el Santuario de Flora y Fauna Otún Quimbaya en la fecha mencionada.    APCOL006    IBDE1A01
+RIS10038    0.78    2013-07-29    La resiliencia ecológica en el Santuario de Flora y Fauna Otún Quimbaya es alta, con un coeficiente de 0.78.    APCOL006    IBSA1C07
+RIS10039    40%    2010-12-05    La diversidad funcional en el Santuario de Flora y Fauna Otún Quimbaya se mantiene en un nivel del 40%, indicando una variedad de funciones ecológicas en el ecosistema.    APCOL006    IBSA1C05
+RIS10040    0.64    2016-04-21    La tasa de mortalidad en el Santuario de Flora y Fauna Otún Quimbaya es baja, lo que sugiere condiciones favorables para la supervivencia de las poblaciones presentes en el área    APCOL006    IBPC1E04
+RIS10041    1285     2019-08-02    Se observa un aumento significativo en la diversidad alfa en comparación con registros anteriores. Esto puede indicar un cambio positivo en el ecosistema del Santuario de Flora y Fauna Otún Quimbaya.    APCOL006    IBDE1A01
+RIS10042    0.52    2012-11-17    La fragmentación del hábitat en el Santuario de Flora y Fauna Otún Quimbaya es baja, lo que favorece la conectividad entre diferentes áreas y la preservación de la diversidad biológica.    APCOL006    IBAD1B02
+RIS10043    870     2017-08-12    El número de especies amenazadas en el Parque Nacional Natural Tayrona es considerable, lo que resalta la necesidad de medidas de conservación adicionales.    APCOL007    IBDE1A04
+RIS10044    33%    2012-11-28    La cobertura vegetal en el área protegida representa el 33% del total, lo que indica un buen estado de conservación de la vegetación.    APCOL007    IBPC1E01
+RIS10045    0.95    2019-05-03    La salud del hábitat en el Parque Nacional Natural Tayrona es excelente, con un coeficiente de 0.95, lo que indica un ecosistema saludable y funcional.    APCOL007    IBSA1C01
+RIS10046    48%    2015-06-30    La adaptabilidad de las especies en el Parque Nacional Natural Tayrona es moderada, con un coeficiente de 0.48, lo que sugiere cierta capacidad para ajustarse a cambios en el entorno.    APCOL007    IBEC1F04
+RIS10047    0.78    2011-09-17    El índice de salud de los bosques en el Parque Nacional Natural Tayrona es alto, con un valor de 0.78, lo que indica una buena condición general del bosque en términos de estructura y diversidad.    APCOL007    IBSA1C11
+RIS10048    0.62    2018-03-22    La calidad del aire en el Parque Nacional Natural Tayrona es moderada, con un índice de 0.62, lo que sugiere una presencia de contaminantes pero dentro de límites aceptables para la biodiversidad.    APCOL007    IBSA1C03
+RIS10049    15%    2018-10-05    Se ha observado la presencia de especies invasoras en el área protegida, lo que sugiere la necesidad de monitoreo y gestión continua para preservar la integridad del ecosistema.    APCOL008    IBDE1A05
+RIS10050    1300    2012-07-20    Los análisis del suelo revelan condiciones favorables para el mantenimiento de la biodiversidad, lo que resalta la importancia de proteger este recurso fundamental.    APCOL008    IBSA1C04
+RIS10051    0.75    2016-04-30    La resiliencia frente a especies invasoras en el área protegida sugiere una capacidad significativa para mantener la estabilidad del ecosistema en presencia de perturbaciones externas.    APCOL008    IBSA1C08
+RIS10052    0.63    2013-12-15    La especialización de las especies en el área protegida destaca la adaptación de la comunidad biológica a condiciones específicas del entorno, lo que subraya la importancia de conservar la diversidad genética.    APCOL008    IBEC1F05
+RIS10053    50%    2019-08-12    La presencia significativa de especies endémicas en el área protegida resalta su valor único en términos de conservación de la biodiversidad regional.    APCOL008    IBEC1F05
+RIS10054    1100    2010-05-28    Se ha registrado una riqueza considerable de especies en el área protegida, lo que indica la importancia de conservar y proteger este hábitat diverso.    APCOL008    IBSA1C07
+RIS10055    0.82    2017-09-03    Los análisis de calidad del agua sugieren condiciones óptimas para el mantenimiento de la vida acuática y la salud del ecosistema en general.    APCOL009    IBDE1A03
+RIS10056    27%    2014-11-21    La cantidad de biomasa presente en el área protegida indica una productividad saludable del ecosistema, lo que favorece la estabilidad de las cadenas tróficas y la diversidad biológica.    APCOL009    IBDE1A07
+RIS10057    0.68    2015-06-07    La resiliencia del ecosistema frente a especies invasoras sugiere una capacidad significativa para mantener la estructura y función del hábitat en presencia de amenazas externas.    APCOL009    IBSA1C03
+RIS10058    0.75    2011-10-09    La capacidad de adaptación del ecosistema a perturbaciones sugiere una respuesta efectiva a los cambios ambientales, lo que resalta la importancia de mantener la integridad del hábitat para garantizar su salud a largo plazo.    APCOL009    IBVE1D03
+RIS10059    290    2013-05-20    La resiliencia del ecosistema frente a especies invasoras es alta, indicando una capacidad significativa para mantener la estructura y función del hábitat ante amenazas externas.    APCOL009    IBSA1C08
+RIS10060    80%    2018-09-10    El ecosistema muestra una capacidad moderada de adaptación a perturbaciones, destacando la importancia de implementar medidas de conservación para fortalecer su resiliencia ante cambios ambientales.    APCOL009    IBEC1F04
+RIS10061    480    2010-06-15    Se ha observado un aumento en el número de especies amenazadas en el área protegida.    APCOL010    IBDE1A04
+RIS10062    0.75    2019-11-30    Se ha identificado una mejora en la resistencia a perturbaciones del ecosistema en el área.    APCOL010    IBSA1C09
+RIS10063    0.62    2008-04-23    La salud general del bosque en el área protegida se encuentra en riesgo debido a la fragmentación del paisaje.    APCOL010    IBSA1C11
+RIS10064    32%    2015-08-02    Se ha registrado un aumento en la diversidad funcional en el ecosistema del área protegida.    APCOL010    IBAD1B01
+RIS10065    1600    2012-10-18    La calidad del suelo en el área protegida es óptima para el desarrollo de la flora y fauna local.    APCOL010    IBAD1B04
+RIS10066    0.81    2022-09-07    Se ha observado una mejora en la integridad de los humedales dentro del área protegida.    APCOL010    IBSA1C07
+RIS10067    1250    2016-04-25    Se ha detectado una alta presencia de especies invasoras en el área protegida.    APCOL011    IBDE1A09
+RIS10068    0.72    2011-09-08    Se observa una fragmentación significativa del hábitat en el área, lo que puede afectar la conectividad ecológica.    APCOL011    IBSA1C11
+RIS10069    1630    2019-02-17    La calidad del suelo en el área protegida es excepcional, proporcionando un hábitat saludable para la flora y fauna nativa.    APCOL011    IBSA1C09
+RIS10070    0.64    2013-11-30    Se ha identificado una disminución en la integridad de las poblaciones vegetales en el área protegida.    APCOL011    IBSA1C06
+RIS10071    88%    2012-05-29    Se ha registrado un aumento en la diversidad genética dentro de las poblaciones de especies endémicas en el área.    APCOL011    IBSA1C07
+RIS10072    4900    2017-10-11    La resistencia a perturbaciones del ecosistema ha mejorado significativamente en los últimos años.    APCOL011    IBVE1D03
+RIS10073    63%    2008-03-11     Se ha registrado una disminución en la cobertura vegetal del área protegida, lo que sugiere una mayor fragmentación del paisaje    APCOL012    IBVE1D04
+RIS10074    458    2013-07-26    Se ha observado una fragmentación del paisaje en el área protegida, indicando una división y aislamiento de los hábitats dentro del área. Esta fragmentación puede reducir la conectividad ecológica.    APCOL012    IBSA1C10
+RIS10075    0.42    2018-11-09    Sugiere que el área es susceptible a los efectos del cambio climático, como el aumento de las temperaturas, cambios en los patrones de precipitación y eventos climáticos extremos, lo que puede afectar negativamente la biodiversidad.    APCOL012    IBSA1C12
+RIS10076    6%    2010-12-03    La calidad del suelo en el área protegida ha mostrado una ligera mejora. Esto indica una fertilidad y estructura mejoradas del suelo, lo que contribuye al mantenimiento de la biodiversidad y la salud del ecosistema.    APCOL012    IBSA1C09
+RIS10077    0.57    2019-05-22    La salud del hábitat en el área protegida se ha visto afectada por la actividad humana, lo que ha disminuido la capacidad del ecosistema para resistir y recuperarse de la invasión de especies exóticas.    APCOL012    IBSA1C08
+RIS10078    0.86    2009-09-17     Indica una mayor capacidad del ecosistema para mantener su estructura y funciones frente a perturbaciones externas, como incendios forestales, sequías o disturbios antropogénicos.    APCOL012    IBEC1F03
+RIS10079    32%    2012-03-21    Se ha detectado una disminución en el número de especies endémicas en el área protegida.    APCOL013    IBDE1A03
+RIS10080    0.88    2016-07-14    La salud general de los bosques en el área protegida se encuentra en un estado óptimo.    APCOL013    IBSA1C11
+RIS10081    0.75    2020-11-05    La resistencia frente a especies invasoras ha mejorado en el ecosistema local.    APCOL013    IBSA1C08
+RIS10082    0.65    2014-09-18    Se observa una alta fragmentación del paisaje en el área, lo que puede afectar la dispersión de especies.    APCOL013    IBEC1F03
+RIS10083    2600    2018-03-02    Se ha registrado un aumento en el número de especies amenazadas en el área protegida.    APCOL013    IBDE1A08
+RIS10084    40%    2010-12-09    Se observa una disminución en la conectividad ecológica en el área protegida.    APCOL013    IBAD1B02
+RIS10085    310    2012-09-28    Se ha registrado un aumento en el número de especies amenazadas en el área protegida.    APCOL014    IBDE1A04
+RIS10086    0.68    2018-05-07    Se observa una fragmentación significativa en los humedales del área, lo que puede afectar su funcionalidad.    APCOL014    IBPC1E02
+RIS10087    175    2011-07-18    Se ha detectado un aumento en la erosión de suelos en el área protegida.    APCOL014    IBSA1C06
+RIS10088    15%    2014-12-01    Se ha observado un aumento en la mortalidad de especies en el área protegida.    APCOL014    IBAD1B03
+RIS10089    30%    2022-08-19    Se ha registrado un aumento en el número de especies invasoras en el área protegida.    APCOL014    IBAD1B02
+RIS10090    0.72    2017-03-06    Se ha observado un aumento en la diversidad funcional en el área protegida.    APCOL014    IBAD1B05

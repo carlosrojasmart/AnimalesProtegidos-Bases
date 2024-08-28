@@ -1,0 +1,14 @@
+APCOL001    Parque Nacional Natural Amacayacu    2672.41    1975-07-04    -3.483    -70.200    TIEC0001
+APCOL002    Parque Nacional Natural Río Puré    9998.80    1980-05-05    -1.948    -70.135    TIEC0009
+APCOL003    Parque Nacional Natural Iguaque    6888    1977-07-30    5.672    -73.461    TIEC0002
+APCOL004    Parque Nacional Natural El Cocuy    3060    1977-12-22    6.366    -72.330    TIEC0008
+APCOL005    Parque Nacional Natural Los Nevados    58300    1973-06-19    4.793    -75.489    TIEC0008
+APCOL006    Santuario de Flora y Fauna Otún Quimbaya    4.89    1996-05-23    4.729    -75.578    TIEC0002
+APCOL007    Parque Nacional Natural Tayrona    225    1969-11-28    11.306    -74.065    TIEC0001
+APCOL008    Cienaga Grande de Santa Marta    4280    1977-07-06    10.702    -74.477    TIEC0006
+APCOL009    Santuario de Flora y Fauna Cordillera de Los Picachos    2874.94    1977-05-02    2.976    -74.871    TIEC0003
+APCOL010    Santuario de Fauna y Flora Malpelo    857    1995-07-12    4.0000    -81.5000    TIEC0012
+APCOL011    Parque Nacional Natural Chingaza    766    1977-07-02    4.547    -73.733    TIEC0008
+APCOL012    Parque Nacional Natural Gorgona    240    1985-06-17    2.962    -78.185    TIEC0015
+APCOL013    Parque Nacional Natural Uramba Bahía Málaga    470.94    2010-05-04    4.009    -77.240    TIEC0007
+APCOL014    Serranía de La Macarena    6200    1991-06-04    2.968    -73.900    TIEC0001

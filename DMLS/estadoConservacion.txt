@@ -1,0 +1,30 @@
+ESTC0001    En peligro crítico    La especie enfrenta un riesgo extremadamente alto de extinción en su hábitat natural.
+ESTC0002    En peligro    La especie enfrenta un riesgo alto de extinción en su hábitat natural.
+ESTC0003    Vulnerable    La especie enfrenta un riesgo moderado de extinción en su hábitat natural.
+ESTC0004    Casi amenazado    La especie no califica para ser considerada en peligro, pero podría enfrentar amenazas en el futuro.
+ESTC0005    Preocupación menor    La especie no está en peligro inmediato y tiene una población estable.
+ESTC0006    No evaluado    La situación de conservación de la especie aún no ha sido evaluada.
+ESTC0007    Extinto en estado silvestre    Todos los individuos de la especie han desaparecido en la naturaleza, solo existen en cautiverio.
+ESTC0008    Extinto    La especie ya no existe en la naturaleza ni en cautiverio.
+ESTC0009    Datos insuficientes    La información disponible sobre la especie es insuficiente para evaluar su estado de conservación.
+ESTC0010    Amenazado    La especie enfrenta amenazas significativas que podrían llevarla a un mayor riesgo de extinción.
+ESTC0011    Bajo riesgo menor    La especie tiene una población estable y no enfrenta amenazas significativas en su hábitat.
+ESTC0012    Bajo riesgo mayor    Aunque la especie tiene una población estable, enfrenta algunas amenazas en su hábitat.
+ESTC0013    Riesgo de extinción desconocido    No se dispone de suficiente información para evaluar el riesgo de extinción de la especie.
+ESTC0014    Riesgo bajo    La especie tiene una población saludable y enfrenta pocas amenazas en su hábitat.
+ESTC0015    Riesgo moderado    Aunque la especie tiene una población estable, enfrenta algunas amenazas en su hábitat.
+ESTC0016    Riesgo alto    La especie enfrenta amenazas significativas que podrían llevarla a un mayor riesgo de extinción.
+ESTC0017    Extinto en estado salvaje    Todos los individuos de la especie han desaparecido en la naturaleza, solo existen en cautiverio.
+ESTC0018    Recuperándose    La especie ha experimentado una mejora en su estado de conservación debido a esfuerzos de conservación exitosos.
+ESTC0019    En recuperación    La especie está en proceso de recuperación después de haber enfrentado amenazas significativas en el pasado.
+ESTC0020    En riesgo    La especie enfrenta amenazas significativas que podrían llevarla a un mayor riesgo de extinción.
+ESTC0021    Bajo riesgo    La especie tiene una población saludable y enfrenta pocas amenazas en su hábitat.
+ESTC0022    Moderadamente amenazado    La especie enfrenta algunas amenazas en su hábitat, pero su población es estable.
+ESTC0023    Amenazado críticamente    La especie enfrenta amenazas extremadamente altas que podrían llevarla rápidamente a la extinción.
+ESTC0024    En peligro moderado    La especie enfrenta un riesgo moderado de extinción en su hábitat natural.
+ESTC0025    Vulnerable moderadamente    La especie enfrenta un riesgo moderado de extinción en su hábitat natural.
+ESTC0026    En declive    La población de la especie está disminuyendo y enfrenta amenazas significativas.
+ESTC0027    En expansión    La población de la especie está aumentando y su hábitat se está expandiendo.
+ESTC0028    En peligro de extinción    La especie enfrenta un riesgo extremadamente alto de extinción en su hábitat natural.
+ESTC0029    En peligro de desaparición    La especie enfrenta un riesgo extremadamente alto de desaparición en su hábitat natural.
+ESTC0030    Riesgo de extinción    La especie enfrenta un riesgo significativo de extinción en su hábitat natural.

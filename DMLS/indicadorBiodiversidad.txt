@@ -1,0 +1,44 @@
+IBDE1A01    Diversidad alfa    Mide la diversidad de especies dentro de un hábitat específico en un momento dado.
+IBDE1A02    Número de especies    Representa la cantidad total de especies presentes en un área o hábitat.
+IBDE1A03    Número de especies endémicas    Indica la cantidad de especies que son exclusivas de un área geográfica específica.
+IBDE1A04    Número de especies amenazadas    Cuantifica la cantidad de especies que se encuentran en riesgo de extinción o están en peligro.
+IBDE1A05    Número de especies invasoras    Refleja la presencia de especies exóticas que han sido introducidas en un área y que pueden tener impactos negativos en el ecosistema local.
+IBDE1A06    Margalef    Estima la riqueza de especies en relación con el número total de individuos presentes.
+IBDE1A07    Índice de rareza    Evaluación de la singularidad y escasez de especies raras o únicas presentes en un área.
+IBDE1A08    Vulnerabilidad de especies    Estimación del riesgo de extinción de una especie en función de su biología, historia natural y amenazas existentes.
+IBDE1A09    Diversidad Genética    Evalúa la diversidad genética dentro de una población o comunidad, lo que puede influir en su capacidad de adaptación y supervivencia a largo plazo.
+IBDE1A10    Resistencia Genética    Este índice evalúa la capacidad de una población o comunidad para resistir enfermedades, plagas u otros agentes estresantes bióticos mediante la presencia de diversidad genética dentro de la población.
+IBAD1B01    Berger-Parker    Indica la proporción de la abundancia total representada por la especie más abundante en un conjunto de datos.
+IBAD1B02    Fragmentación del Hábitat    Medida de la división y aislamiento de hábitats dentro del área protegida.
+IBAD1B03    Fragmentación del Paisaje    Este índice se enfoca en evaluar cómo la fragmentación del paisaje afecta la conectividad y la dispersión de especies.
+IBAD1B04    Conectividad ecológica    Evalúa la facilidad con la que las especies pueden moverse entre diferentes hábitats dentro del área protegida
+IBAD1B05    Diversidad Funcional    Este índice considera la variedad de funciones ecológicas que desempeñan las especies dentro de un ecosistema.
+IBSA1C01    Salud del hábitat    Evaluación del estado general del hábitat en el área protegida.
+IBSA1C02    Calidad del agua    Evalúa la pureza y el estado general del agua en un ecosistema, considerando parámetros físicos, químicos y biológicos.
+IBSA1C03    Calidad del aire    Cuantifica la pureza y el estado general del aire en un área determinada, teniendo en cuenta contaminantes y otros factores relevantes.
+IBSA1C04    Calidad del suelo    Indica la fertilidad, estructura y salud general del suelo en un ecosistema, considerando propiedades físicas, químicas y biológicas.
+IBSA1C05    Erosión de suelos    Evaluación del grado de erosión de suelos dentro del área protegida.
+IBSA1C06    Impacto de cambio climático    Evaluación del impacto del cambio climático en la biodiversidad del área protegida.
+IBSA1C07    Resiliencia ecológica    Medida de la capacidad de un ecosistema para recuperarse después de sufrir una perturbación.
+IBSA1C08    Resiliencia frente a Especies Invasoras    Evalúa la capacidad de un ecosistema para resistir y recuperarse de la invasión de especies exóticas, considerando la resistencia y la capacidad de recuperación de las comunidades nativas.
+IBSA1C09    Resistencia a perturbaciones    Medida de la capacidad de un ecosistema para mantener su estructura y funciones ante perturbaciones externas.
+IBSA1C10    Vulnerabilidad del ecosistema    Cuantificación del riesgo de daño o pérdida de un ecosistema debido a amenazas internas o externas.
+IBSA1C11    Índice de Salud de los Bosques    Evalúa la condición general de un bosque en términos de la estructura del dosel, la diversidad de especies, la regeneración y la presencia de enfermedades o plagas.
+IBSA1C12    Vulnerabilidad Climática    Cuantifica la susceptibilidad de un ecosistema a los efectos del cambio climático, considerando factores como la exposición, la sensibilidad y la capacidad adaptativa.
+IBVE1D01    Cobertura vegetal    Evaluación cuantitativa de la extensión y densidad de la vegetación en un área determinada.
+IBVE1D02    Eficiencia trófica    Evaluación de la transferencia de energía entre diferentes niveles tróficos en un ecosistema.
+IBVE1D03    Biomasa    Mide la cantidad total de materia orgánica producida por plantas y otros organismos en un área específica.
+IBVE1D04    Número de especies vegetales    Contar el número de especies vegetales presentes en un área específica también es un indicador importante de la biodiversidad vegetal.
+IBPC1E01    Estado de las Poblaciones    Evaluación del estado de las poblaciones de especies en riesgo.
+IBPC1E02    Integridad Ecológica    Indica la salud general del ecosistema en función de la composición y abundancia de especies presentes.
+IBPC1E03    Exito reproductiva    Medida de la eficacia de la reproducción y la crianza de individuos o poblaciones en un área específica.
+IBPC1E04    Mortalidad    Cuantificación de la tasa de mortalidad de individuos o poblaciones en un área durante un período de tiempo específico.
+IBPC1E05    Hábitat óptimo    Evalúa la calidad y disponibilidad de hábitats adecuados para especies específicas en un área determinada.
+IBPC1E06    Hábitat crítico    Indica la proporción de hábitats críticos necesarios para mantener poblaciones viables de especies en riesgo de extinción.
+IBPC1E07    Integridad de Humedales    Evalúa la salud y funcionalidad de los humedales dentro del área protegida.
+IBEC1F01    Shannon-Wiener    Cuantifica la incertidumbre asociada con la identificación de una especie aleatoria de un conjunto de especies presentes.
+IBEC1F02    Simpson    Mide la probabilidad de que dos individuos seleccionados al azar en una muestra pertenezcan a la misma especie.
+IBEC1F03    Biomagnificación    Medida de la acumulación de contaminantes a lo largo de una cadena alimentaria en un ecosistema.
+IBEC1F04    Adaptabilidad    Evaluación de la capacidad de una especie o comunidad para ajustarse a cambios en el entorno.
+IBEC1F05    Especialización    Evalúa la especialización de las especies en términos de su dependencia de recursos específicos dentro de un ecosistema.
+IBEC1F06    Invasión Biológica    Cuantifica la presencia y el impacto de especies invasoras en un ecosistema, considerando factores como la abundancia, la distribución y los efectos negativos en la biodiversidad nativa.
